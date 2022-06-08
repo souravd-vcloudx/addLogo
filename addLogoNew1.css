@@ -1,4 +1,4 @@
-.navbar img {
+.navbar:first-child img {
     height: 30% !important;
     width: 30% !important;
 }
